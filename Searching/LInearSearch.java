@@ -29,3 +29,4 @@ class LinearSearch
 							+ result);
 	}
 }
+/* This code is contributed by Prakhar Sharma. */
