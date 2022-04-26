@@ -141,3 +141,4 @@ class BinarySearchTree {
 		tree.inorder();
 	}
 }
+/* This code is contributed by Prakhar Sharma. */
