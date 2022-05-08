@@ -58,7 +58,7 @@ public void floorCeilBST(Node root, int key)
 	System.out.println(key + " " +
 					floor + " " + ceil);
 }
-
+ 
 
 public static void main(String[] args)
 {

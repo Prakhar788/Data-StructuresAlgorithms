@@ -34,7 +34,7 @@ public class Tree {
 		root.right = createTree();
 		
 		return root;
-	}
+	} 
 	
 	static void inOrder(Node root) {
 		if(root == null) return;
