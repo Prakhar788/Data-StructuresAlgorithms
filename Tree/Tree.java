@@ -43,7 +43,7 @@ public class Tree {
 		System.out.print(root.data+" ");
 		inOrder(root.right);
 	}
-	
+	 
 	static void preOrder(Node root) {
 		if(root == null) return;
 		 System.out.print(root.data+" ");
