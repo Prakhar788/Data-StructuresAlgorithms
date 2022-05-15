@@ -16,7 +16,7 @@ class floor {
 		if (x >= arr[high])
 			return high;
 
-	
+	 
 		int mid = (low + high) / 2;
 
 	
