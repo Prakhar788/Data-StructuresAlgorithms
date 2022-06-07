@@ -1,4 +1,4 @@
-//Implementing Doubly Ended Queue using generic class
+//Implementing Queue using generic class
 import java.util.Queue;
 import java.util.LinkedList;
 
