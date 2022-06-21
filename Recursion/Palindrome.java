@@ -16,7 +16,7 @@ public class Palindrome {
         return rem*(int)Math.pow(10,digits-1)+rev2(n/10, digits-1);
     }
     static boolean palin(int n){
-        return (n==rev(n));
+        return n==rev(n);
 
     }
     
