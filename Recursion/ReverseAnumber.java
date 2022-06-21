@@ -13,7 +13,7 @@ public class ReverseAnumber {
             return n;
         }
         int rem=n%10;
-        return rem*(int)Math.pow(10,digits-1)+rev2(n/10, digits-1)
+        return rem*(int)Math.pow(10,digits-1)+rev2(n/10, digits-1);
     }
     
 }
