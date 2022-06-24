@@ -9,7 +9,7 @@
     # # # #
  */
 
-public class PrintPatterns {
+public class Pattern {
     public static void print1(int r,int c)
     {
         if(r==0)
