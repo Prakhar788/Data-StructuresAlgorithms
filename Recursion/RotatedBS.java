@@ -1,4 +1,4 @@
-public class RotatedBinarySearch {
+public class RotatedBS {
     public static int search(int arr[],int target)
     {
         return find(arr,0,arr.length-1,target);
