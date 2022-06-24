@@ -25,3 +25,4 @@ public class PrintNnumbers{
         print2(6);
     }
 }
+ 
