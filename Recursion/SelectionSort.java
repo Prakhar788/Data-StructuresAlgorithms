@@ -14,5 +14,7 @@ public class SelectionSort {
         arr[min]=arr[i];
         arr[i]=temp;
         sort(arr,i+1,i+2,0);
+ }
+}
 
-    }
+    
